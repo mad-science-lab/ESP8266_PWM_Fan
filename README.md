@@ -11,6 +11,8 @@ Simple Arduino sketch to controls a 4-wire 12v fan from an esp8266 board
 * Ground from power supply conneted to esp ground
 * Pin D8 (GPIO15) connected to the fans PWM
 
+ ![circuit](/images/pwmFan.jpg)
+
 ## Software
 Adjust "fanSpead" between 1 and 100 to control the spead of the fan.
 
