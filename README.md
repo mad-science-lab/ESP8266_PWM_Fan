@@ -15,6 +15,5 @@ Simple Arduino sketch to controls a 4-wire 12v fan from an esp8266 board
 Adjust "fanSpead" between 1 and 100 to control the spead of the fan.
 
 ## Warning 
-Working and playing with electricity can be dangerous. You can damage components, get shocked, or die. I am in no way responsible for any losses or damages you may encounter by reading or implementing any of the information provided. By using this information, you are accepting personal responsibility for your actions.    
-
+Working and playing with electricity can be dangerous. You can damage components, get shocked, or die. I am in no way responsible for any losses or damages you may encounter by reading or implementing any of the information provided. Please be careful and double-check your wiring before plugging anything in, and never change your wiring while your circuit is powered. By using this information, you are accepting personal responsibility for your actions.    
 
