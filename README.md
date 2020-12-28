@@ -6,6 +6,10 @@ Simple Arduino sketch to controls a 4-wire 12v fan from an esp8266 board
 * 12v 4 wire fan
 * 12v power supply
 
+ ![hardwareV01](/images/hardware.jpg)
+ 
+This is the first version of the Hardware, with the optional 2n2222 for turning the fan off. I added a 3mm led between the 'on/off' pin and ground, this will turn on when the fan is on. 
+
 ### Setup 
 * Fan positive and ground connected to 12v power supply
 * Ground from power supply conneted to esp ground
