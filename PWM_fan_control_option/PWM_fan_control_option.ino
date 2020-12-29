@@ -19,8 +19,9 @@ int offPin = 14;
 int i;  
 
 void setup() {
+  delay(2000);
   Serial.begin(115200);
-  delay(10000);
+  delay(2000);
   Serial.println("Hello World!");  
 
   pinMode(fanPin, OUTPUT);                             // sets the pin as outputs:
